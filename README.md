@@ -8,7 +8,7 @@ Hotels lose revenue when guests cancel at the last minute. This project predicts
 
 | Low risk | High risk |
 |---|---|
-| ![Low risk](screenshot_low.png) | ![High risk](screenshot_high.png) |
+| ![Low risk](Screenshot%202026-11-14%20161107.png) | ![High risk](Screenshot%202026-11-14%20161941.png) |
 
 ## Results
 
@@ -83,7 +83,7 @@ streamlit run app.py
 | `app.py` | Streamlit web app |
 | `model.joblib` | Trained pipeline, threshold and defaults |
 | `requirements.txt` | Dependencies (scikit-learn pinned to the training version) |
-| `hotel_cancellation_documented.ipynb` | Full analysis notebook |
+| `hotel_cancellation_documented_(3).ipynb` | Full analysis notebook |
 
 ## Data
 
