@@ -34,7 +34,7 @@ The final model is a tuned HistGradientBoosting pipeline with a decision thresho
 | Random Forest | 0.832 | 0.743 | 0.599 | 0.664 | 0.887 | 0.758 |
 | HistGradientBoosting | 0.827 | 0.725 | 0.606 | 0.660 | 0.888 | 0.759 |
 
-Tuning improved CV PR-AUC only slightly (0.759 → 0.767), and Random Forest was almost as good. HistGradientBoosting was chosen for its slightly higher PR-AUC, speed and smaller model file.
+Tuning improved CV PR-AUC only slightly (0.759 → 0.767), and Random Forest was almost as good. HistGradientBoosting was chosen for its slightly higher PR-AUC, HistGradientBoosting was chosen for its slightly higher PR-AUC.
 
 ### Risk levels used by the app (test set)
 
